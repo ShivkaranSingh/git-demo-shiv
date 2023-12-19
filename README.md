@@ -6,3 +6,6 @@ This is my first git file
 
 # Second change
 this is my second change
+
+# New branch added
+This is the change for adding a branch
